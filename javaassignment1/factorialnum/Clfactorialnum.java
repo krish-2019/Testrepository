@@ -17,6 +17,7 @@ public class Clfactorialnum {
 			i++;
 		}
 		System.out.println("Factorial " + factout + " is for Number " + factinput);
+		
 	}
 
 }
